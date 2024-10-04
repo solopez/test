@@ -1,2 +1,5 @@
-# test
-aprendiendo microsoft paint y a usar git
+nuevo
+texto
+en 
+git
+prueba varias lineas

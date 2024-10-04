@@ -1,2 +1,2 @@
 # test
-aprendiendo microsoft paint
+aprendiendo microsoft paint y a usar git
